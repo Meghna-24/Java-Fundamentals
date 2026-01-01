@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GE_practice.iml" filepath="$PROJECT_DIR$/GE_practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/employeeWage/employeeWage.iml" filepath="$PROJECT_DIR$/employeeWage/employeeWage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employeeWage/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/employeeWage/exceptions/exceptions.iml" />
     </modules>
   </component>
 </project>
