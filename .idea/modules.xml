@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GE_practice.iml" filepath="$PROJECT_DIR$/GE_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaPractice/dsaPractice.iml" filepath="$PROJECT_DIR$/dsaPractice/dsaPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/employeeWage/employeeWage.iml" filepath="$PROJECT_DIR$/employeeWage/employeeWage.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/lineComparison/lineComparison.iml" filepath="$PROJECT_DIR$/lineComparison/lineComparison.iml" />
